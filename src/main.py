@@ -1,6 +1,5 @@
 import sys
 from PySide6.QtWidgets import QApplication, QLabel, QWidget, QVBoxLayout
-from controllers
 
 def main():
     # Create the application instance. QApplication manages application-wide resources and settings.
